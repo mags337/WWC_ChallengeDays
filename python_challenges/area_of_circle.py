@@ -1,5 +1,7 @@
 'Create a program to calculate the area of a circle given its radius.'
 
+'The calculates the area of a circle given its radius, based on the user input given'
+
 import numpy as np
 
 input = input("Enter the radius: ")
