@@ -1,14 +1,7 @@
 'Write a function to count the number of vowels in a given string '
 
-test_sentence = 'and what about now, how many vowels are written in this string'
-
-
 def get_user_input():
     return str.lower(input('Enter a sentence: '))
-    # except ValueError:
-    #     print ('----Invalid input----')
-    #     return None
-
 
 def count_vowels(sentence):
     vowels = ['a', 'e', 'i', 'o', 'u']
