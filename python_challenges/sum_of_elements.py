@@ -1,6 +1,17 @@
 'Write a program to find the sum of all elements in a list.'
 
 def sum_of_elements(input_list):
+
+    '''
+    Calculate the sum of a list of numbers.
+
+    Parameters:
+    - numbers (list of int or float): A list of numeric values.
+
+    Returns:
+    float: The sum of the input numbers.
+    '''
+    
     try:
         'Filtering the non-numerical elements in the given list'
         input = [element for element in input_list if isinstance(element, (int,float))]
