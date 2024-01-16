@@ -11,3 +11,4 @@ Day  | Task Description
 [Day4](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/sum_of_elements.py) | Write a program to find the sum of all elements in a list.
 [Day5](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/find_min_max.py) | Write a program to find the maximum and minimum values in a list.
 [Day6](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/count_letter.py) | Write a program to count the occurrences of a specific character in a string
+[Day7](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/pos_neg_null.py) | Write a program to check if a number is positive, negative, or zero.
