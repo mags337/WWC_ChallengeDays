@@ -12,6 +12,6 @@ Day  | Task Description
 [Day5](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/find_min_max.py) | Write a program to find the maximum and minimum values in a list
 [Day6](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/count_letter.py) | Write a program to count the occurrences of a specific character in a string
 [Day7](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/pos_neg_null.py) | Write a program to check if a number is positive, negative, or zero
-[Day8]() |
-[Day9]() |
+[Day8](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/uppercase_lowercase_count.py) | Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it
+[Day9]() | Write a program to check if a number is even or odd
 [Day10](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/remove_duplicates.py) | Write a program to remove duplicates from a list
