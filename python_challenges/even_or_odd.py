@@ -7,5 +7,8 @@ def even_odd(input):
 
 
 if __name__ == "__main__":
-    user_input = [float(item) for item in list(input("Please enter your numbers here (comma-seperated): ").split(","))]
-    result = even_odd(user_input)
+    try:
+        user_input = [float(item) for item in list(input("Please enter your numbers here (comma-seperated): ").split(","))]
+        result = even_odd(user_input)
+    except ValueError:
+        print("Please enter a number")
