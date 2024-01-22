@@ -15,5 +15,5 @@ Day  | Task Description
 [Day8](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/uppercase_lowercase_count.py) | Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it
 [Day9](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/even_or_odd.py) | Write a program to check if a number is even or odd
 [Day10](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/remove_duplicates.py) | Write a program to remove duplicates from a list
-[Day11]()  | Write a program to print the multiplication table of a given number
+[Day11](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/get_multiply_table.py)  | Write a program to print the multiplication table of a given number
 [Day12](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/reverse_str.py)  | Write a program to reverse a given string
