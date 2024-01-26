@@ -17,3 +17,5 @@ Day  | Task Description
 [Day10](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/remove_duplicates.py) | Write a program to remove duplicates from a list
 [Day11](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/get_multiply_table.py)  | Write a program to print the multiplication table of a given number
 [Day12](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/reverse_str.py)  | Write a program to reverse a given string
+[Day13](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/random_shuffle.py) | Write a program to shuffle the elements of a list randomly
+[Day14](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/fibonacci_seq.py) | Write a program to print the first n numbers of a Fibonacci sequence
