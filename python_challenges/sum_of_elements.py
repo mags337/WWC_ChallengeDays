@@ -22,7 +22,7 @@ def sum_of_elements(input_list):
 if __name__ == '__main__':      
     try: 
         'Get the user input and convert it to a list of floats, then calculate and save the sum of the list elements'
-        user_input = [float(item) for item in list(input("Please enter your list of elements here (comma-seperated): ").split(","))]
+        user_input = [float(item) for item in list(input("Please enter your list of elements here (comma-separated): ").split(","))]
         result = sum_of_elements(user_input)
         print(f' The sum of the list {user_input} is: {result}')
     

@@ -12,11 +12,8 @@ def reverse_string(string):
     - ValueError: If the input is not a string.
     '''
     try:
-        # Use list comprehension to create a reversed version of the string
-        # by iterating over its characters in reverse order.
-        rev = [string[-i-1] for i,letter in enumerate(string)]
-        # Join the reversed characters into a new string.
-        return ''.join(map(str, rev))
+        #-1: start steps from the back to the front
+        return string[::-1]
     except ValueError:
         # Handle the case where the input is not a string.
         return "ValueError: must be a string"
