@@ -19,3 +19,18 @@ Day  | Task Description
 [Day12](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/reverse_str.py)  | Write a program to reverse a given string
 [Day13](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/random_shuffle.py) | Write a program to shuffle the elements of a list randomly
 [Day14](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/fibonacci_seq.py) | Write a program to print the first n numbers of a Fibonacci sequence
+[Day15](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/leapyear.py) | Create a program that checks if a year is a leap year
+[Day16](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/wordcount_better.py) | Write a function that counts the frequency of each word in a sentence
+[Day17](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/first_letter_capital.py) | Create a program that capitalizes the first letter of each word in a sentence
+[Day18](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/find_largest_number.py) | Create a program to find the largest among three numbers
+[Day19](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/factorial_number.py) | Write a function to calculate the factorial of a number
+[Day20](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/give_even.py) | Write a function that takes a list of numbers and returns a new list containing only the even numbers
+[Day21](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/remove_element.py) | Create a program to remove a specific element from a set
+[Day22](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/second_largest_element.py) | Create a program to find the second-largest element in a list
+[Day23](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/check_key.py) | Write a program that checks if a key exists in a dictionary
+[Day24](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/remove_vowles.py) | Write a program to remove vowels from a given string
+[Day25](https://github.com/mags337/WWC_ChallengeDays/blob/main/python_challenges/concat_lists.py) | Create a program to concatenate two lists
+
+
+
+
